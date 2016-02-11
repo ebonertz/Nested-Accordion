@@ -1,6 +1,6 @@
 body {
   color: blue;
-  margin: 1em;
+  margin: 5em;
   font-family: 'Lato', Calibri, Arial, sans-serif;
   color: #47a3da;
 }
@@ -14,21 +14,32 @@ h1 {
 
 }
 
+i {
+  float:left;
+  padding: 1em;
+  margin-top: 5em;
+  font-size: 50px;
+  color: #999999;
+  }
+
 article {
   color: #999999;
   font-weight: lighter;
-  margin: 2em;
+  margin-left: 5em
   padding: 1em;
 }
 
-p {
+p1 {
   color: #999999;
   font-weight: lighter;
-  margin: 1em;
-  padding: 1em;}
+  padding: 5em;
+  }
 
 h4 {
   padding: 1em;
   margin: 1em;
   text-align: left;
   }
+header {
+  display: inline-block;
+}
